@@ -1160,4 +1160,4 @@ amostra_dom %>%
 #
 
 ##### #####
-##
+usethis::edit_r_environ()
